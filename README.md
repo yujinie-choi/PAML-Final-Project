@@ -1,8 +1,5 @@
 # PAML-Final-Project
 
-## Project Objective
-Train binary classifier to predict mortality to better understand BMT risk factors.
-
 ## bone-marrow.csv
 Dataset from UCI Machine Learning Repository [https://archive.ics.uci.edu/ml/datasets/Bone+marrow+transplant%3A+children]
 
