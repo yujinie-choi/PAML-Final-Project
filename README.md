@@ -17,3 +17,6 @@ Our best model (Logistic Regression) saved as a pickle file
 
 ## prediction_page.py
 Streamlit app page for the user to input data and get prediction of patient outcomes
+
+## PAML Final Project Presentation Slides.pptx
+Presentation slides for Final Project
